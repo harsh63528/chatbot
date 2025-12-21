@@ -1,0 +1,53 @@
+/* body */
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* header section */
+header{
+    background-color: green;
+    height: 60px;
+}
+
+/* website name */
+header h2{
+    margin: 0%;
+    text-align: center;
+    background-color: darkslategrey;
+}
+
+/* nav bar */
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+/* sandwitch button */
+nav img{
+    margin: 5px;
+}
+
+/* menu secton */
+nav ul{
+    display: flex;
+    margin: 0px;
+}
+
+nav ul li{
+    list-style-type: none;
+    margin: 5px ;
+
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+/* aside */
+
+
+
